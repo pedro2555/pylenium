@@ -16,7 +16,7 @@ pylenium
 
 
 
-Pythonic wrapper for selenium"
+Pythonic wrapper for selenium
 
 
 * Free software: GNU General Public License v2

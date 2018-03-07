@@ -32,7 +32,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
     ],
-    description="Pythonic wrapper for selenium"",
+    description="Pythonic wrapper for selenium",
     install_requires=requirements,
     license="GNU General Public License v2",
     long_description=readme + '\n\n' + history,
