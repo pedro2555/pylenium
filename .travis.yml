@@ -22,7 +22,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: pedro2555
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: $PYPI_PASSWORD
   on:
     tags: true
     repo: pedro2555/pylenium
